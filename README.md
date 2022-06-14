@@ -18,7 +18,7 @@ I'll be adding a little more :)
 **PDGE:** Procesamiento de Datos a Gran Escala  (*Large Scale Data Processing*)\
 **PE:** Procesos Estocásticos  (*Stochastic Processes*)\
 **PST:** Procesamiento de Señal y Transformadas  (*Signal Processing and Transforms*)\
-**TI:** Teoría de la Información *Information Theory*)\
+**TI:** Teoría de la Información *Information Theory*)
 
 ### **PART 2:**
 
@@ -29,7 +29,7 @@ I'll be adding a little more :)
 **PICDD:** Proyecto de Investigación en Ciencia de Datos. (*Data Science Research Project*)\
 **OPTIM:** Optimización (*Optimization*)\
 **PIT:** Procesamiento de Información Temporal. (*Temporal Information Processing*)\
-**PLN** Procesamiento del Lenguaje Natural (*Natural Language Processing*)\
+**PLN** Procesamiento del Lenguaje Natural (*Natural Language Processing*)
 
 
 
