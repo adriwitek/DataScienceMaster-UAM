@@ -11,9 +11,9 @@ I'll be adding a little more :)
 
 ### **PART 1:**
 
-**CN:** Computación Numérica (*Numerical Computing*)
-**GD:** Gestión de Datos  (*Data Management*)
-**MAAA:** Métodos Avanzados en Aprendizaje Automático  (*Advanced Methods in Machine Learning*)
+**CN:** Computación Numérica (*Numerical Computing*)\
+**GD:** Gestión de Datos  (*Data Management*)\
+**MAAA:** Métodos Avanzados en Aprendizaje Automático  (*Advanced Methods in Machine Learning*)\
 **MAE:** Métodos Avanzados en Estadística  (*Advanced Methods in Statistics*)
 **PDGE:** Procesamiento de Datos a Gran Escala  (*Large Scale Data Processing*)
 **PE:** Procesos Estocásticos  (*Stochastic Processes*)
