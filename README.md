@@ -6,10 +6,10 @@ Just **some** of the work I have done at some of master's subjects.
 I'll be adding a little more :)
 
 
-##Index
+## Index
 
 
-###**PART 1:**
+### **PART 1:**
 **CN:** Computación Numérica (*Numerical Computing*)
 **GD:** Gestión de Datos  (*Data Management*)
 **MAAA:** Métodos Avanzados en Aprendizaje Automático  (*Advanced Methods in Machine Learning*)
@@ -19,7 +19,7 @@ I'll be adding a little more :)
 **PST:** Procesamiento de Señal y Transformadas  (*Signal Processing and Transforms*)
 **TI:** Teoría de la Información *Information Theory*)
 
-###**PART 2:**
+### **PART 2:**
 
 **APPSIV:** Aprendizaje Profundo para Procesamiento de Señales de Imagen y Vídeo *Deep Learning for Image and Video Signal Processing.*
 **AR:** Aprendizaje por Refuerzo  (*Reinforcement Learning*))
