@@ -22,3 +22,6 @@
 [submodule "PLN_"]
 	path = PLN_
 	url = https://github.com/adriwitek/PLN_
+[submodule "ReinforcementLearning"]
+	path = ReinforcementLearning
+	url = https://github.com/adriwitek/ReinforcementLearning
