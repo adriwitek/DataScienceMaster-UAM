@@ -25,3 +25,6 @@
 [submodule "ReinforcementLearning"]
 	path = ReinforcementLearning
 	url = https://github.com/adriwitek/ReinforcementLearning
+[submodule "APPSIV"]
+	path = APPSIV
+	url = https://github.com/adriwitek/APPSIV.git
