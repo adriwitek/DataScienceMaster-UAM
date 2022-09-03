@@ -1,3 +1,18 @@
 [submodule "CN"]
 	path = CN
 	url = https://github.com/adriwitek/CN
+[submodule "TI"]
+	path = TI
+	url = https://github.com/adriwitek/TI
+[submodule "PE"]
+	path = PE
+	url = https://github.com/adriwitek/PE
+[submodule "GD_"]
+	path = GD_
+	url = https://github.com/adriwitek/GD_
+[submodule "MAAA"]
+	path = MAAA
+	url = https://github.com/adriwitek/MAAA
+[submodule "PDGE"]
+	path = PDGE
+	url = https://github.com/adriwitek/PDGE
