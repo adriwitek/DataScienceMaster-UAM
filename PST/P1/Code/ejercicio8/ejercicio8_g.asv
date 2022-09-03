@@ -1,0 +1,37 @@
+run("ejercicio8_base.m")
+
+% ------ Apartado G -------
+% Sistema 1 sin memoria y[n] = x^2[n]
+% Sistema 2 LTI con impulso hg2[n] = h2[n]
+hg2 = h2;
+
+% yga - Salida sistema 1 - Entrada = xg[n] = impulso unidad *2
+impulso_unidad = [1, 0, 0, 0, 0];
+xg = impulso_unidad .* 2;
+yga = xg.^2;
+n_xg = [0:4]; 
+subplot(1,1,1);
+stem(n_xg, yga)
+title("F: Señal Salida yga");
+ylabel("yga");
+xlabel("Tiempo Discreto");
+
+
+
+
+% ygb - Salida sistema 2 - Entrada xg[n]
+ygb = xg .* hg2;
+
+% yg1 = suma  yga[n] + ygb[n]
+% Es necesario extender la longitud de yga para que sea igual a la de ygb
+yga = [yga, zeros(1, 4)];
+yg1 = yga + ygb;
+
+% hg1[n] = salida sistema uno para impulso unidad
+hg1 = impulso_unidad.^2; % Estoo.. Tiene sentido??
+
+% hparallel[n] =  hg1[n]+hg2[n]. 
+hparallel = hg1 + hg2;
+
+% yg2[n] = salida sistema hparallel[n] con entrada xg[n]
+yg2 = conv(xg, hparallel);
