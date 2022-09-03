@@ -16,3 +16,9 @@
 [submodule "PDGE"]
 	path = PDGE
 	url = https://github.com/adriwitek/PDGE
+[submodule "pln_"]
+	path = pln_
+	url = https://github.com/adriwitek/pln_
+[submodule "PLN_"]
+	path = PLN_
+	url = https://github.com/adriwitek/PLN_
