@@ -28,3 +28,6 @@
 [submodule "APPSIV"]
 	path = APPSIV
 	url = https://github.com/adriwitek/APPSIV.git
+[submodule "PIT"]
+	path = PIT
+	url = https://github.com/adriwitek/PIT.git
