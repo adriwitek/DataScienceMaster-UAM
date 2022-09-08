@@ -37,3 +37,6 @@
 [submodule "INE_"]
 	path = INE_
 	url = https://github.com/adriwitek/INE_
+[submodule "PICDD"]
+	path = PICDD
+	url = https://github.com/adriwitek/PICDD
