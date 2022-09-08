@@ -34,3 +34,6 @@
 [submodule "ABM"]
 	path = ABM
 	url = https://github.com/adriwitek/ABM
+[submodule "INE_"]
+	path = INE_
+	url = https://github.com/adriwitek/INE_
