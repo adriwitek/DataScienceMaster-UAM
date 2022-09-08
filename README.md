@@ -6,6 +6,9 @@ Just **some** of the work I have done at some of master's subjects.\
 I'll be adding a little more :)
 
 
+Prácticas de las asignaturas del Máster en Ciencia de Datos de la UAM. 
+Espero que sean de utilidad. :D
+
 ## Index
 
 
