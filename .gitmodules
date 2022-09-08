@@ -31,3 +31,6 @@
 [submodule "PIT"]
 	path = PIT
 	url = https://github.com/adriwitek/PIT.git
+[submodule "ABM"]
+	path = ABM
+	url = https://github.com/adriwitek/ABM
